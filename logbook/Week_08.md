@@ -6,7 +6,7 @@
 ## Basics of I/O  
 - Input can come from users via `input()` or from other sources like files or networks.  
 - Output is commonly done via `print()`.  
-- Formatting output is important for readability or for interfacing with other programs.
+- Formatting output is important  for readability or for interfacing with other programs.
 
 ---
 

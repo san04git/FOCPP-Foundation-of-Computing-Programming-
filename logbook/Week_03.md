@@ -11,9 +11,9 @@ Boolean expressions evaluate to either `True` or `False` and are commonly used i
 
 - Relational operators include:  
   `<`, `>`, `<=`, `>=`, `==`, `!=`
-- Boolean expressions usually involve variables rather than fixed values.
+- Boolean expressions usually involve  variables rather than fixed values.
 
-Examples include comparing numeric values, strings (alphabetical order), and even lists. Python allows comparisons only between compatible data types; otherwise, a runtime error occurs.
+Examples include comparing numeric values, strings (alphabetical order), and even lists. Python allows comparisons only between  compatible data types; otherwise, a runtime error occurs.
 
 A common logical error occurs when comparing values of different data types, especially when using `input()` which always returns a string.
 

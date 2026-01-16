@@ -15,7 +15,7 @@
   - `sort([key=func, reverse=bool])`: Sorts list in place; can sort by custom key or reverse order.  
   - `reverse()`: Reverses elements in place.  
 - Accessor methods:  
-  - `index(value, [start, end])`: Returns index of value, optional search range.  
+  - `index(value, [start, end])`: Returns  index of value, optional search range.  
   - `count(value)`: Returns count of how many times value appears.  
   - `copy()`: Returns a shallow copy of the list.  
 - The `del` statement can delete elements by index, slice, or delete entire variables.

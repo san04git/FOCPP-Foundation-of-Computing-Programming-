@@ -14,7 +14,7 @@ Common ways to import functions include:
 - Importing specific functions using `from module_name import function`
 - Importing all contents using `from module_name import *` (not recommended in large programs)
 
-The **math** module from the Python Standard Library was used to access mathematical functions such as `sqrt()` and `log2()`. Constants like `pi` can also be imported from modules.
+The **math** module from the Python Standard  Library was used to access mathematical functions such as `sqrt()` and `log2()`. Constants like `pi` can also be imported from modules.
 
 ---
 
@@ -22,7 +22,7 @@ The **math** module from the Python Standard Library was used to access mathemat
 Functions are defined using the `def` keyword, followed by:
 - The function name
 - A list of formal parameters
-- An indented block of code
+- An indented block  of code
 
 Functions allow repeated logic to be written once and reused multiple times. Parameters passed into functions act as **local variables**, meaning they are only accessible within the function’s scope.
 

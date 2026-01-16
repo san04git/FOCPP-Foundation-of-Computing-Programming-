@@ -40,7 +40,7 @@ Common operators include:
 - `%` modulus (remainder)
 - `**` exponentiation
 
-Expressions are used for calculations, decision-making (selection), and repetition (iteration).
+Expressions are used for  calculations, decision-making (selection), and repetition (iteration).
 
 ---
 

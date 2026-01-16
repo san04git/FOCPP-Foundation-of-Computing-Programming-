@@ -57,6 +57,6 @@ This repository contains lab summaries, exercises, and practical code examples f
 - File operations: opening, reading, writing, appending  
 - File modes and binary vs text files  
 - Random file access using `seek()` and `tell()`  
-- Exception-safe file handling using the `with` statement
+- Exception-safe file handling using the `with` statement.
 
 ---

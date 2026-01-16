@@ -11,7 +11,7 @@ A Python script is a program stored in a text file with the `.py` file extension
 
 Unlike interactive mode, Python scripts do not automatically display the result of expressions. Output must be explicitly displayed using the `print()` function. This reinforces the importance of controlling program output within scripts.
 
-Scripts can be written using any text editor; a specialised Integrated Development Environment (IDE) is not required, although IDEs can provide useful features such as syntax highlighting and debugging tools.
+Scripts can be written using any text editor; a specialised  Integrated Development Environment (IDE) is not required,  although IDEs can provide useful features such as syntax highlighting and debugging tools.
 
 ---
 

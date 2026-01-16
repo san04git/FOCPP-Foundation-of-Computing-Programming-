@@ -15,7 +15,7 @@ Key rules for variable names:
 - Are case-sensitive (`age`, `Age`, and `AGE` are different variables)
 - Should be descriptive to improve code readability
 
-Variables are created using the **assignment operator (`=`)**, which assigns the value on the right-hand side to the variable on the left-hand side. Variables must be assigned a value before they can be used.
+Variables are created using the **assignment operator (`=`)**, which assigns the value on the right-hand side to the variable  on the left-hand side. Variables must be assigned a value before they can be used.
 
 ---
 
