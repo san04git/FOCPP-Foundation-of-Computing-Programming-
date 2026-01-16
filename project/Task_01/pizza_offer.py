@@ -4,8 +4,6 @@
 # This program reads pizza prices from a file,
 # applies the 4-for-3 discount, and displays
 # the total price and discount percentage.
-#
-# Author: Raman Yadav
 # Module: Foundations of Computing & Programming
 # --------------------------------------------
 
