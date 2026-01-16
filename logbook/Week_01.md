@@ -85,4 +85,4 @@ Good programs validate input and handle errors gracefully.
 ---
 
 ## Conclusion
-This lab provided essential knowledge of programming concepts and hands-on experience with the Python interpreter. Understanding these basics is crucial for writing correct programs and for progressing to more advanced programming topics.
+This lab provided essential knowledge of programming concepts and hands-on experience with the Python interpreter. Understanding these basics is crucial for writing correct programs and for progressing to more advanced programming topics..
