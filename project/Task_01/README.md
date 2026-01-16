@@ -23,4 +23,4 @@ discount percentage.
 Order Total is £47.97, a fabulous discount of 19%!
 
 ## Notes
-All code is written by me. No third-party libraries are required.
+All code is written by me. No third-party libraries are required. 
