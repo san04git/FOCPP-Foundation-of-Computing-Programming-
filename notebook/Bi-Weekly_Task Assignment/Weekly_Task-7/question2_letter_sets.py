@@ -13,4 +13,4 @@ if __name__ == "__main__":
 
     print("Letters in at least one word:", union_letters(word1, word2))
     print("Letters in both words:", intersection_letters(word1, word2))
-    print("Letters in either but not both:", symmetric_diff_letters(word1, word2))
+    print("Letters in either but not both:", symmetric_diff_letters(word1, word2)) 

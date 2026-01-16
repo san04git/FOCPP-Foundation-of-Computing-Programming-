@@ -4,4 +4,4 @@ if 0 <= number <= 12:
     for i in range(13):
         print(i, "x", number, "=", i * number)
 else:
-    print("Invalid number")
+    print("Invalid number") 

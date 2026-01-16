@@ -5,4 +5,4 @@ def simple_encrypt(message):
 if __name__ == "__main__":
     msg = input("Enter a message to encrypt: ")
     encrypted = simple_encrypt(msg)
-    print("Encrypted message:", encrypted)
+    print("Encrypted message:", encrypted) 

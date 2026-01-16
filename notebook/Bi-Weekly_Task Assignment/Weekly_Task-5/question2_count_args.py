@@ -7,4 +7,4 @@ def main():
     print(f"Number of arguments provided: {arg_count}")
 
 if __name__ == "__main__":
-    main()
+    main() 

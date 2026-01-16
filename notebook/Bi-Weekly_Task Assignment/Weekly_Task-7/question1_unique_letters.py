@@ -4,4 +4,4 @@ def unique_letters(s):
 
 if __name__ == "__main__":
     text = input("Enter a string: ")
-    print("Unique letters sorted:", unique_letters(text))
+    print("Unique letters sorted:", unique_letters(text)) 

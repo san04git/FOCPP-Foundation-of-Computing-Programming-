@@ -5,4 +5,4 @@ def remove_last_char(text):
 
 # Test
 text = input("Enter a string: ")
-print(remove_last_char(text))
+print(remove_last_char(text)) 

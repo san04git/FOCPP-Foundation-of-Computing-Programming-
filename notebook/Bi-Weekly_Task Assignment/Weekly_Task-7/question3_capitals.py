@@ -15,4 +15,4 @@ def capitals_manager():
             print(f"Thanks, I’ve learned that the capital of {country.title()} is {capital}.")
 
 if __name__ == "__main__":
-    capitals_manager()
+    capitals_manager() 

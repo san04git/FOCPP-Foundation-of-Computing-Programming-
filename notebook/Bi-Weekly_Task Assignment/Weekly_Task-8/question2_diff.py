@@ -16,4 +16,4 @@ if __name__ == "__main__":
     if len(sys.argv) < 3:
         print("Usage: python diff.py file1 file2")
     else:
-        diff(sys.argv[1], sys.argv[2])
+        diff(sys.argv[1], sys.argv[2]) 

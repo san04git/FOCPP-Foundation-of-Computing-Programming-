@@ -18,4 +18,4 @@ if __name__ == "__main__":
     msg = input("Enter a message to encrypt: ")
     encrypted_msg, interval = random_spacing_encrypt(msg)
     print(f"Encrypted message: {encrypted_msg}")
-    print(f"Interval used: {interval}")
+    print(f"Interval used: {interval}") 

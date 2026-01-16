@@ -11,5 +11,5 @@ while True:
     elif len(password1) < 8 or len(password1) > 12:
         print("Password must be 8 to 12 characters long.")
     else:
-        print("Password Set")
+        print("Password Set") 
         break

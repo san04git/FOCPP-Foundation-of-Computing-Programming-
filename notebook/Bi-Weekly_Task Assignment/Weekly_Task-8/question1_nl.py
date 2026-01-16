@@ -12,4 +12,4 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Usage: python nl.py filename")
     else:
-        nl(sys.argv[1])
+        nl(sys.argv[1]) 

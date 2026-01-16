@@ -3,4 +3,4 @@ def in_range(num):
 
 # Test
 number = int(input("Enter a number: "))
-print(in_range(number))
+print(in_range(number)) 

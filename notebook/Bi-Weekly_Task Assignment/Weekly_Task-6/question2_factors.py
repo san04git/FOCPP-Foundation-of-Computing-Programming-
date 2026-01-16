@@ -7,4 +7,4 @@ def factors(n):
 
 if __name__ == "__main__":
     number = int(input("Enter an integer: "))
-    print("Factors:", factors(number))
+    print("Factors:", factors(number)) 

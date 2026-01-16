@@ -9,4 +9,4 @@ def main():
     print("Shortest argument:", shortest)
 
 if __name__ == "__main__":
-    main()
+    main() 

@@ -12,4 +12,4 @@ if temps:
     print("Minimum:", min(temps))
     print("Mean:", sum(temps) / len(temps))
 else:
-    print("No temperatures entered")
+    print("No temperatures entered") 

@@ -12,4 +12,4 @@ def count_letters(text):
 text = input("Enter a string: ")
 u, l = count_letters(text)
 print("Uppercase:", u)
-print("Lowercase:", l)
+print("Lowercase:", l) 

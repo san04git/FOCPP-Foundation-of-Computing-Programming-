@@ -8,4 +8,4 @@ def is_prime(n):
 
 if __name__ == "__main__":
     number = int(input("Enter an integer: "))
-    print(f"{number} is prime: {is_prime(number)}")
+    print(f"{number} is prime: {is_prime(number)}") 

@@ -21,4 +21,4 @@ def main():
     print(f"Mean: {mean:.2f}")
 
 if __name__ == "__main__":
-    main()
+    main() 

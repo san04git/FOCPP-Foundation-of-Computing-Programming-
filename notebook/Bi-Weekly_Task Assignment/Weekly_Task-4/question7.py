@@ -7,4 +7,4 @@ for i in range(6):
 
 print("Maximum:", max(temps))
 print("Minimum:", min(temps))
-print("Mean:", sum(temps) / len(temps))
+print("Mean:", sum(temps) / len(temps)) 

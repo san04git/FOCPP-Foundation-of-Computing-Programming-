@@ -8,4 +8,4 @@ if abs(number) <= 12:
         for i in range(13):
             print(i, "x", number, "=", i * number)
 else:
-    print("Number must be between -12 and 12")
+    print("Number must be between -12 and 12") 

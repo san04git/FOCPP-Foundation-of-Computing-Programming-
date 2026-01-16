@@ -11,4 +11,4 @@ if __name__ == "__main__":
     common = most_common_letters(msg)
     print("Six most common letters and counts:")
     for letter, count in common:
-        print(f"{letter}: {count}")
+        print(f"{letter}: {count}") 

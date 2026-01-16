@@ -5,4 +5,4 @@ def to_binary(n):
 
 if __name__ == "__main__":
     number = int(input("Enter a positive integer: "))
-    print("Binary representation:", to_binary(number))
+    print("Binary representation:", to_binary(number)) 

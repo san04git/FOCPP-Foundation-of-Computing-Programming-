@@ -13,4 +13,4 @@ def main():
         print(f"Website {url} is not reachable. Error: {e}")
 
 if __name__ == "__main__":
-    main()
+    main() 

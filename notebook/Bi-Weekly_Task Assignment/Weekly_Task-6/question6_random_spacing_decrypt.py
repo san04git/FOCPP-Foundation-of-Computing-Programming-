@@ -6,4 +6,4 @@ if __name__ == "__main__":
     encrypted_msg = input("Enter encrypted message: ")
     interval = int(input("Enter interval used: "))
     decrypted_msg = random_spacing_decrypt(encrypted_msg, interval)
-    print("Decrypted message:", decrypted_msg)
+    print("Decrypted message:", decrypted_msg) 

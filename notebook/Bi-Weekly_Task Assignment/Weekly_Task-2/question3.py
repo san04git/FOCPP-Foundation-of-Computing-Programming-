@@ -7,4 +7,4 @@ leftover = students % group_size
 if leftover == 1:
     print("There will be", groups, "groups with 1 student left over.")
 else:
-    print("There will be", groups, "groups with", leftover, "students left over.")
+    print("There will be", groups, "groups with", leftover, "students left over.") 

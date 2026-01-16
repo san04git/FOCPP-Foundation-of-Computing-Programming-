@@ -37,4 +37,4 @@ if __name__ == "__main__":
         print("Usage: python spell.py filename")
     else:
         dictionary = load_dictionary()
-        spell_check(sys.argv[1], dictionary)
+        spell_check(sys.argv[1], dictionary) 
