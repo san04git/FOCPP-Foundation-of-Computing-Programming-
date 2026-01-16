@@ -19,4 +19,4 @@ it is skipped. The program exits immediately if a user enters the wrong letter.
 ## Notes
 - No third-party libraries required
 - Program checks 3 random letters from each valid password
-- Exits immediately on incorrect input
+- Exits immediately on incorrect input 
