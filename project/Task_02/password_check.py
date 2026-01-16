@@ -4,8 +4,6 @@
 # This program reads passwords from a file
 # and performs a 3-character security check
 # if the password is long enough (>= 9 characters)
-#
-# Author: Raman Yadav
 # --------------------------------------------
 
 import sys           # To read command-line arguments
